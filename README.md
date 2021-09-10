@@ -1,4 +1,4 @@
-### Olá! Eu sou o Manoel Vieira 👋
+### Olá! Eu sou o Manoel Vieira 👋🏽
 
 <
 - 🔭 Trabalhando com Desenvolvimento Mobile
