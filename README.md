@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Manoel Vieira 👋🏽
 
 <
-- 🔭 Trabalhando com Desenvolvimento Mobile
+- 🔭 Trabalhando com Desenvolvimento Mobile e Front-End
 - 🌱 Estudando Flutter 
 
 <div>
