@@ -2,7 +2,7 @@
 
 <
 - 🔭 Trabalhando com Desenvolvimento Front-end e Mobile
-- 🌱 Estudando Flutter 
+- 🌱 Estudando JavaScript
 
 <div>
   <a href="https://github.com/manoelvieira0">
