@@ -2,7 +2,7 @@
 
 <
 - 🔭 Trabalhando com Desenvolvimento Front-end e Mobile
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Node Js
 
 <div>
   <a href="https://github.com/manoelvieira0">
