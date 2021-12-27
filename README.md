@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Manoel Vieira 👋🏽
 
 <
-- 🔭 Trabalhando com Desenvolvimento Front-end e Mobile
+- 🔭 Estagiando na Secretaria de educação do estado de Alagoas
 - 🌱 Estudando Node Js
 
 <div>
@@ -17,6 +17,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
 </div>
   
   ##
