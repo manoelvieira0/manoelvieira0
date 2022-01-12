@@ -2,7 +2,7 @@
 
 <
 - 🔭 Estagiando na Secretaria de educação do estado de Alagoas
-- 🌱 Estudando Node Js
+- 🌱 Estudando Python
 
 <div>
   <a href="https://github.com/manoelvieira0">
@@ -17,7 +17,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
 </div>
   
