@@ -2,7 +2,7 @@
 
 <
 - 🔭 Estagiando na Secretaria de educação do estado de Alagoas
-- 🌱 Estudando React 
+- 🌱 Estudando Node
 
 <div>
   <a href="https://github.com/manoelvieira0">
